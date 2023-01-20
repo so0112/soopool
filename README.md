@@ -4,10 +4,10 @@
 #  SOOPOOL 
 개발 스터디와 프로젝트 수풀에서 쉽고 간편하게!
 대한민국 개발자들이 사용하는 서비스로
-스터디/ 프로젝트 모집 서비스를 제공합니다
+스터디 / 프로젝트 모집 서비스를 제공합니다
 
 
-어디에서 스터디를 구하고 프로젝트를 개설하실지 
+어디에서 스터디를 구하고 프로젝트를 개설하실지가 
 막막하시다면 수풀 한 번 이용해보세요!
 
 
@@ -24,7 +24,7 @@
 
 |나여주(BE팀장)|신승윤(BE)|김은철(BE)|박상호(FE)|신상오(FE)|
 |:-:|:-:|:-:|:-:|:-:|
-|이미지|이미지|이미지|이미지|이미지|
+|![image](https://user-images.githubusercontent.com/55952886/213702799-47f6dc23-7474-43ad-97a9-929817a67c18.png)|![image](https://user-images.githubusercontent.com/55952886/213703014-a548fa61-7cec-4bd9-8fcf-bb89b78f80e0.png)|![image](https://user-images.githubusercontent.com/55952886/213703062-bbe3bd5e-7c3b-42d2-b393-cec3eeb25e86.png)|![image](https://user-images.githubusercontent.com/55952886/213703113-d900d40e-f04f-4b1c-a250-35cd6bdbe691.png)|![image](https://user-images.githubusercontent.com/55952886/213703148-7f95d879-86fa-4e03-845c-baf4d0101b0a.png)|
 |[@yeojoo1224](https://github.com/yeojoo1224)|[@Shaa-code](https://github.com/Shaa-code)|[@euncheol-kim](https://github.com/euncheol-kim)|[@hopak-e](https://github.com/hopak-e)|[@so0112](https://github.com/so0112?tab=following)|
 
 
